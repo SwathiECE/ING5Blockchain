@@ -1,0 +1,702 @@
+[
+  {
+    "name": "FleursContemporaines #1",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/1.png",
+    "dna": "37410df6bb14b9ccb0f08c92e9292e8cc6228e4c",
+    "edition": 1,
+    "date": 1667987411143,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondPastel"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesJaune"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsBleu"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsRose"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreVert"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #2",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/2.png",
+    "dna": "55c0e7435979dff4f61a8dcdcf327bde5f2dba40",
+    "edition": 2,
+    "date": 1667987411244,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondVert"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesRouge"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsJaune"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsBleu"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreBlanc"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #3",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/3.png",
+    "dna": "068c0226dfd568f0a32c87cd9534e7f2e0124f08",
+    "edition": 3,
+    "date": 1667987411381,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondRouge"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesVert"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsBleu"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsVert"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreBlanc"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Pink"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #4",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/4.png",
+    "dna": "706f096074c2a71fa5f8e0c46317e8cfd8b7e134",
+    "edition": 4,
+    "date": 1667987411513,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondPastel"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesBleu"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsRouge"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsVert"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreJaune"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #5",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/5.png",
+    "dna": "ff272a8beae1ad04ddd171abe45fe90483dbf56e",
+    "edition": 5,
+    "date": 1667987411615,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondVert"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesBleu"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsRouge"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsVert"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreVert"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Pink"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #6",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/6.png",
+    "dna": "df039dc67248d7a52ba4b75996ac926e03c935cd",
+    "edition": 6,
+    "date": 1667987411708,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondVert"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesJaune"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsOrange"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsRose"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreJaune"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #7",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/7.png",
+    "dna": "c6aebd83fcdfe6676490c867eb7989790d125f9c",
+    "edition": 7,
+    "date": 1667987411833,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondRouge"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesJaune"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsOrange"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsRose"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreVert"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Pink"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #8",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/8.png",
+    "dna": "01f34a914ae751e0737080d8a916000ef9fb733f",
+    "edition": 8,
+    "date": 1667987411937,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondVert"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesBleu"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsBleu"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsBleu"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreNoir"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #9",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/9.png",
+    "dna": "d2810532998dc78fe5f97a057887c8eb4feb848a",
+    "edition": 9,
+    "date": 1667987412082,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondRouge"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesJaune"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsOrange"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsOrange"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreNoir"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #10",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/10.png",
+    "dna": "9149f80b025d041151585b76d6c45eda7d5413e9",
+    "edition": 10,
+    "date": 1667987412204,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondPastel"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesBleu"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsOrange"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsVert"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreJaune"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #11",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/11.png",
+    "dna": "85032ed78a75b270d0173797ade3771b07aeeecb",
+    "edition": 11,
+    "date": 1667987412324,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondRouge"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesVert"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsOrange"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsRose"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreNoir"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #12",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/12.png",
+    "dna": "a2dae1c47878b867b4eeade5fff0941639d31a45",
+    "edition": 12,
+    "date": 1667987412507,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondPastel"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesVert"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsJaune"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsOrange"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreVert"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #13",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/13.png",
+    "dna": "0402acd600d8879f0db23488bcfb40d34fe28b3a",
+    "edition": 13,
+    "date": 1667987412635,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondVert"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesJaune"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsRouge"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsBleu"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreVert"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #14",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/14.png",
+    "dna": "bca043c8415f1fa026c7754f75291ecd4bbcb43a",
+    "edition": 14,
+    "date": 1667987412743,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondPastel"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesRouge"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsOrange"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsVert"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreJaune"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Pink"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #15",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/15.png",
+    "dna": "b205c5fedcf89832dab12f025b96ea6c4333d59c",
+    "edition": 15,
+    "date": 1667987412873,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondRouge"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesBleu"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsOrange"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsRose"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreJaune"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #16",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/16.png",
+    "dna": "da631797dbf3a56830718241d60d0f6f464950b6",
+    "edition": 16,
+    "date": 1667987412982,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondRouge"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesBleu"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsOrange"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsOrange"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreVert"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #17",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/17.png",
+    "dna": "b872dfd54e2b54dcb6209a68ba211810aebc82aa",
+    "edition": 17,
+    "date": 1667987413091,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondJaune"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesJaune"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsBleu"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsBleu"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreBlanc"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #18",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/18.png",
+    "dna": "665758c0e9bd5723d60fac1e533180c86323d7cc",
+    "edition": 18,
+    "date": 1667987413178,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondVert"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesBleu"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsOrange"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsVert"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreJaune"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Pink"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #19",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/19.png",
+    "dna": "b385c439ce2462617a689f5a987e680579bd0cf0",
+    "edition": 19,
+    "date": 1667987413274,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondPastel"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesJaune"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsRouge"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsOrange"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreJaune"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FleursContemporaines #20",
+    "description": "Fleures Contemporaines",
+    "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/20.png",
+    "dna": "dd02c9516c3ab2e1eaf47e3a1e57af0e040a9ff7",
+    "edition": 20,
+    "date": 1667987413386,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FondJaune"
+      },
+      {
+        "trait_type": "Petales",
+        "value": "PetalesJaune"
+      },
+      {
+        "trait_type": "Points",
+        "value": "PointsRouge"
+      },
+      {
+        "trait_type": "Traits",
+        "value": "TraitsOrange"
+      },
+      {
+        "trait_type": "Centres",
+        "value": "CentreVert"
+      },
+      {
+        "trait_type": "Frames",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

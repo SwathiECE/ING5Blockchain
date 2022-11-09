@@ -1,0 +1,35 @@
+{
+  "name": "FleursContemporaines #20",
+  "description": "Fleures Contemporaines",
+  "image": "ipfs://QmVfaNrpeiGpSiPbc7s6PnsX49sXsAG1ycs7R3FpBRE5fM/20.png",
+  "dna": "dd02c9516c3ab2e1eaf47e3a1e57af0e040a9ff7",
+  "edition": 20,
+  "date": 1667987413386,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "FondJaune"
+    },
+    {
+      "trait_type": "Petales",
+      "value": "PetalesJaune"
+    },
+    {
+      "trait_type": "Points",
+      "value": "PointsRouge"
+    },
+    {
+      "trait_type": "Traits",
+      "value": "TraitsOrange"
+    },
+    {
+      "trait_type": "Centres",
+      "value": "CentreVert"
+    },
+    {
+      "trait_type": "Frames",
+      "value": "Yellow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
