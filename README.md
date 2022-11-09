@@ -3,9 +3,10 @@ Projet NFT Fleurs
 Instructions pour lancer l'application :
 
 1. cd nftapp
-2. npm run start
-3. Se rendre sur Google Chrome (impérativement) : http://localhost:3000
-4. Cliquer sur le bouton "Acheter un NFT FleursContemporaines" après avoir connecté votre wallet.
+2. npm install
+3. npm run start
+4. Se rendre sur Google Chrome (impérativement) : http://localhost:3000
+5. Cliquer sur le bouton "Acheter un NFT FleursContemporaines" après avoir connecté votre wallet.
 
 
 Descriptif de l'application et comment l'utiliser :
